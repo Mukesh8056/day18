@@ -1,0 +1,13 @@
+.container{
+     height:fit-content;
+     background-color:red;
+     margin-top: 100px;
+     padding: 20px;
+   
+}
+#resultTable{
+     background-color:red;
+     margin-top: 50px;
+     margin-left:600px;
+     color:black;
+}
